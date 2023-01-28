@@ -17,3 +17,5 @@
 13. mbusd : An open-source Modbus TCP to Modbus RTU (RS-232/485) gateway. It presents a network of RTU slaves as single TCP slave
 14. googletest : A Google Testing and Mocking Framework
 
+## Examples:
+[![asciicast](https://asciinema.org/a/dTF47m7C78nwnnBhFg8AvrFmN.svg)](https://asciinema.org/a/dTF47m7C78nwnnBhFg8AvrFmN)
